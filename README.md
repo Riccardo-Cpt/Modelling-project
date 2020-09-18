@@ -14,6 +14,10 @@ In the next step we converted the deterministic settings of the first simulation
 to obtain an exact stochastic simulation.
 ![alt text](https://github.com/Riccardo-Cpt/Modelling-project/blob/master/Stochastic.jpg?raw=true)
 
+Lastly we optimize our parameters in order to fit the ODEs model with "experimental data" of the simplest simulations. Trust region algorithm with multistart approach was used for the scope. Parameters constrains were taken from the article
+![alt text](https://github.com/Riccardo-Cpt/Modelling-project/blob/master/ParameterEstimation.jpg?raw=true)
+
+
 BiologicalNetworks___Report.pdf report file containing our work
 
 Presentation_ppt_marchetti.pdf power point presentation of the project
