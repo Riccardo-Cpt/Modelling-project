@@ -7,7 +7,7 @@ We proceeded reproducing the 2 simplest simulation present in the article, evalu
 
 Then we included the effects of immunotherapic and chemoterapic treatments:
 
-![alt text](https://github.com/Riccardo-Cpt/Modelling-project/blob/master/Fig 5B Merge.jpg?raw=true)
+![alt text](https://github.com/Riccardo-Cpt/Modelling-project/blob/master/Fig5B_Merge.jpg?raw=true)
 
 
 
