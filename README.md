@@ -21,4 +21,4 @@ The others are matlab scripts
   
   
   
-![Alt text](Fig 5B Merge.jpg)
+![alt text](https://github.com/Riccardo-Cpt/Modelling-project/blob/master/Fig2A_merged.jpg?raw=true)
