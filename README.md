@@ -1,6 +1,16 @@
 # Modelling-project
 Project for exam Modelling and simulations
 
+We proceeded reproducing the 2 simplest simulation present in the article, evaluating growth of the two types of cancer cells:
+
+![alt text](https://github.com/Riccardo-Cpt/Modelling-project/blob/master/Fig2A_merged.jpg?raw=true)
+
+Then we included the effects of immunotherapic and chemoterapic treatments:
+
+![alt text](https://github.com/Riccardo-Cpt/Modelling-project/blob/master/Fig 5B Merge.jpg?raw=true)
+
+
+
 BiologicalNetworks___Report.pdf report file containing our work
 
 Presentation_ppt_marchetti.pdf power point presentation of the project
@@ -21,4 +31,4 @@ The others are matlab scripts
   
   
   
-![alt text](https://github.com/Riccardo-Cpt/Modelling-project/blob/master/Fig2A_merged.jpg?raw=true)
+
