@@ -1,15 +1,18 @@
 # Modelling-project
 Project for exam Modelling and simulations
 
-We proceeded reproducing the 2 simplest simulation present in the article, evaluating growth of the two types of cancer cells:
+In the first part we reproduced the simulations present in the aricle, setting initial populations and parameters accordingly. For all the simulations 
+we employed the runge-kutta45 algorithm.
 
+The 2 simplest simulation present in the article, evaluating growth of the two types of cancer cells:
 ![alt text](https://github.com/Riccardo-Cpt/Modelling-project/blob/master/Fig2A_merged.jpg?raw=true)
 
 Then we included the effects of immunotherapic and chemoterapic treatments:
-
 ![alt text](https://github.com/Riccardo-Cpt/Modelling-project/blob/master/Fig5B_Merge.jpg?raw=true)
 
-
+In the next step we converted the deterministic settings of the first simulation into stochastic to check the behaviour. In this case relied on Direct metod
+to obtain an exact stochastic simulation.
+![alt text](https://github.com/Riccardo-Cpt/Modelling-project/blob/master/Stochastic.jpg?raw=true)
 
 BiologicalNetworks___Report.pdf report file containing our work
 
